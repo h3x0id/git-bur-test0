@@ -5,3 +5,5 @@ def call(varT):
         call(varT)
 
 call(0)
+
+print('test2')
